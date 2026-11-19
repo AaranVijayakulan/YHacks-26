@@ -1,0 +1,6 @@
+{
+  "name": "WattRoute",
+  "description": "Energy-aware AI prompt router that analyzes word count and linguistic complexity with a tiny low-energy model before dispatching to a low-demand or high-demand chatbot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
